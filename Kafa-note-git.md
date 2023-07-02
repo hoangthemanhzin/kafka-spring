@@ -25,7 +25,8 @@ bin/kafka-console-producer.sh --topic kafka-template --bootstrap-server localhos
 ```
 bin/kafka-console-consumer.sh --topic kafka-template --from-beginning --bootstrap-server localhost:9092
 ```
-them anh. 
+![Screenshot from 2023-07-03 00-46-49](https://github.com/hoangthemanhzin/kafka-spring/assets/77549345/8db02636-4b5e-49a6-a749-5c514f90a421)
+
 
 ### Note mot so y tuong : 
 --from-beginning: Đây là một tùy chọn để bắt đầu đọc dữ liệu từ đầu của topic. 
