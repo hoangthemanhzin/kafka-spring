@@ -13,8 +13,8 @@ bin/kafka-topics.sh --create --topic kafka-template --bootstrap-server localhost
 bin/kafka-console-producer.sh --topic kafka-template --bootstrap-server localhost:9092
 
 ==> Sau do co the viet them mot so event tu cau lenh ma ta vua tao. 
-event 1 
-event 2 
+- event 1 
+- event 2 
 
 =======================================================================================
 
